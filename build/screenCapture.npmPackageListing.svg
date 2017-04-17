@@ -1,38 +1,38 @@
 <svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="558" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 18:24:34 +0000    44292 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 18:24:34 +0000     1066 bytes  LICENSE.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 18:24:34 +0000    10002 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 18:24:34 +0000     1617 bytes  addon/components/draggable-object-target.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 18:24:34 +0000     3737 bytes  addon/components/draggable-object.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 18:24:34 +0000      866 bytes  addon/components/object-bin.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 18:24:34 +0000      952 bytes  addon/components/sortable-objects.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 18:24:34 +0000     3544 bytes  addon/mixins/droppable.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 18:24:34 +0000     5182 bytes  addon/services/drag-coordinator.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 18:24:34 +0000      127 bytes  app/components/draggable-object-target.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 18:24:34 +0000      108 bytes  app/components/draggable-object.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 18:24:34 +0000       90 bytes  app/components/object-bin.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 18:24:34 +0000      108 bytes  app/components/sortable-objects.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 18:24:34 +0000      287 bytes  app/initializers/coordinator-setup.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 18:24:34 +0000      742 bytes  app/models/coordinator.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 18:24:34 +0000      734 bytes  app/models/obj-hash.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-17 18:24:34 +0000      119 bytes  app/services/drag-coordinator.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-17 18:24:34 +0000      115 bytes  app/templates/components/draggable-object-target\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 18:25:47 +0000    44292 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 18:25:47 +0000     1066 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 18:25:47 +0000    10002 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 18:25:47 +0000     1617 bytes  addon/components/draggable-object-target.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 18:25:47 +0000     3737 bytes  addon/components/draggable-object.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 18:25:47 +0000      866 bytes  addon/components/object-bin.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 18:25:47 +0000      952 bytes  addon/components/sortable-objects.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 18:25:47 +0000     3544 bytes  addon/mixins/droppable.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 18:25:47 +0000     5182 bytes  addon/services/drag-coordinator.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 18:25:47 +0000      127 bytes  app/components/draggable-object-target.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 18:25:47 +0000      108 bytes  app/components/draggable-object.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 18:25:47 +0000       90 bytes  app/components/object-bin.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 18:25:47 +0000      108 bytes  app/components/sortable-objects.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 18:25:47 +0000      287 bytes  app/initializers/coordinator-setup.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 18:25:47 +0000      742 bytes  app/models/coordinator.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 18:25:47 +0000      734 bytes  app/models/obj-hash.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 18:25:47 +0000      119 bytes  app/services/drag-coordinator.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 18:25:47 +0000      115 bytes  app/templates/components/draggable-object-target\</tspan>
 <tspan x="10" y="314">.hbs</tspan>
-<tspan x="10" y="330"> 18.  2017-04-17 18:24:34 +0000      114 bytes  app/templates/components/draggable-object.hbs</tspan>
-<tspan x="10" y="346"> 19.  2017-04-17 18:24:34 +0000      293 bytes  app/templates/components/object-bin.hbs</tspan>
-<tspan x="10" y="362"> 20.  2017-04-17 18:24:34 +0000        9 bytes  app/templates/components/sortable-objects.hbs</tspan>
-<tspan x="10" y="378"> 21.  2017-04-17 18:24:34 +0000      112 bytes  config/environment.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-17 18:24:34 +0000     3684 bytes  doc/docs.rb</tspan>
-<tspan x="10" y="410"> 23.  2017-04-17 18:24:34 +0000     1258 bytes  doc/examples/classify-posts.md</tspan>
-<tspan x="10" y="426"> 24.  2017-04-17 18:24:34 +0000     2888 bytes  doc/full.md</tspan>
-<tspan x="10" y="442"> 25.  2017-04-17 18:24:34 +0000     1003 bytes  doc/primitives/draggable-object-target.md</tspan>
-<tspan x="10" y="458"> 26.  2017-04-17 18:24:34 +0000      400 bytes  doc/primitives/draggable-object.md</tspan>
-<tspan x="10" y="474"> 27.  2017-04-17 18:24:34 +0000       85 bytes  index.js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-17 18:24:34 +0000     3392 bytes  package.json</tspan>
-<tspan x="10" y="506"> 29.  2017-04-17 18:24:34 +0000     1201 bytes  test-support/helpers/ember-drag-drop.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-17 18:24:34 +0000      227 bytes  testem.json</tspan>
-<tspan x="10" y="538"> 31.  2017-04-17 18:24:34 +0000      230 bytes  todo.md</tspan>
+<tspan x="10" y="330"> 18.  2017-04-17 18:25:47 +0000      114 bytes  app/templates/components/draggable-object.hbs</tspan>
+<tspan x="10" y="346"> 19.  2017-04-17 18:25:47 +0000      293 bytes  app/templates/components/object-bin.hbs</tspan>
+<tspan x="10" y="362"> 20.  2017-04-17 18:25:47 +0000        9 bytes  app/templates/components/sortable-objects.hbs</tspan>
+<tspan x="10" y="378"> 21.  2017-04-17 18:25:47 +0000      112 bytes  config/environment.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-17 18:25:47 +0000     3684 bytes  doc/docs.rb</tspan>
+<tspan x="10" y="410"> 23.  2017-04-17 18:25:47 +0000     1258 bytes  doc/examples/classify-posts.md</tspan>
+<tspan x="10" y="426"> 24.  2017-04-17 18:25:47 +0000     2888 bytes  doc/full.md</tspan>
+<tspan x="10" y="442"> 25.  2017-04-17 18:25:47 +0000     1003 bytes  doc/primitives/draggable-object-target.md</tspan>
+<tspan x="10" y="458"> 26.  2017-04-17 18:25:47 +0000      400 bytes  doc/primitives/draggable-object.md</tspan>
+<tspan x="10" y="474"> 27.  2017-04-17 18:25:47 +0000       85 bytes  index.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-17 18:25:47 +0000     3392 bytes  package.json</tspan>
+<tspan x="10" y="506"> 29.  2017-04-17 18:25:47 +0000     1201 bytes  test-support/helpers/ember-drag-drop.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-17 18:25:47 +0000      227 bytes  testem.json</tspan>
+<tspan x="10" y="538"> 31.  2017-04-17 18:25:47 +0000      230 bytes  todo.md</tspan>
 </text>
 </svg>
