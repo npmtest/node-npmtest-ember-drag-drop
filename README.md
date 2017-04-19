@@ -1,4 +1,7 @@
-# test coverage for  [ember-drag-drop (v0.4.3)](https://github.com/mharris717/ember-drag-drop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-drag-drop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-drag-drop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-drag-drop.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-drag-drop)
+# npmtest-ember-drag-drop
+
+#### basic test coverage for  [ember-drag-drop (v0.4.3)](https://github.com/mharris717/ember-drag-drop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-drag-drop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-drag-drop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-drag-drop.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-drag-drop)
+
 #### Addon for Ember CLI to do drag and drop
 
 [![NPM](https://nodei.co/npm/ember-drag-drop.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-drag-drop)
